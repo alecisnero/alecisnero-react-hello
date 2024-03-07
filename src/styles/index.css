@@ -10,3 +10,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.navbar{
+    background-color: rgb(87, 85, 85);
+}
